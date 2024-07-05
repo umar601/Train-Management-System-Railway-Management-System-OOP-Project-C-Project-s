@@ -1,3 +1,4 @@
+This is complete Smester project.
 The Railway Management System is a software application designed to manage various aspects of a railway network. It provides functionalities for managing trains, stations, schedules, ticketing, and passenger information.
 
 Features
