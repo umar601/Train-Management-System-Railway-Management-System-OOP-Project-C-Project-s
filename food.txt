@@ -1,0 +1,8 @@
+Biryani 300
+Pizza 2500
+colddrink 200
+water 150
+choclate 100
+Biscuit 70
+cake 123
+jucie 80

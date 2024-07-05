@@ -1,0 +1,10 @@
+ShalimarExpress 12D 08:00 Lahore 12:00 Islamabad 2500
+Express 56D 09:00 Faisalabad 13:00 Karachi 3000
+GreenLine 23A 10:30 Islamabad 14:30 Karachi 4000
+PakBusiness 78B 11:15 Karachi 15:45 Lahore 5000
+KhyberMail 42C 12:45 Peshawar 17:30 Karachi 6000
+AwamExpress 99E 14:20 Multan 19:00 Rawalpindi 7600
+Tezgam 66F 16:00 Karachi 21:30 Lahore 8700
+highwayy 12R 2:00 lahore 3:00 sahiwal 2340
+
+Bullet 56G 3:00 jehlum 5:00 karachi 3900
