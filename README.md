@@ -10,8 +10,5 @@ Passenger Management: Store and manage passenger information securely.
 Reporting: Generate reports on various aspects of the railway operations.
 this is complete.
 
-we also used otp verification .
-Also used exceptional handling.
-can submit as term oop project.
-Totally built in C++.
+
 
