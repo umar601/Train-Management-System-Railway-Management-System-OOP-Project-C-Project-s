@@ -7,8 +7,7 @@ Station Management: Maintain a list of stations with details like location, faci
 Schedule Management: Create and manage train schedules, including departure and arrival times at each station.
 Ticketing System: Issue tickets to passengers, manage reservations, and handle cancellations.
 Passenger Management: Store and manage passenger information securely.
-Reporting: Generate reports on various aspects of the railway operations.
-this is complete.
+
 
 
 
