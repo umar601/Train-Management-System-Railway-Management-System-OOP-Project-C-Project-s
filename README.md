@@ -3,9 +3,7 @@ The Railway Management System is a software application designed to manage vario
 Train Management: Add, update, and delete trains with details such as schedule, route, and capacity.
 Station Management: Maintain a list of stations with details like location, facilities, and accessibility.
 Schedule Management: Create and manage train schedules, including departure and arrival times at each station.
-Ticketing System: Issue tickets to passengers, manage reservations, and handle cancellations.
-Passenger Management: Store and manage passenger information securely.
-
+Ticketing System: Issue tickets to passengers, manage reservations, and 
 
 
 
